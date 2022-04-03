@@ -107,6 +107,10 @@ p {
   display: flex;
   margin-top: 40px;
   justify-content: center;
-  color: blue;
+  color: var(--primary-color);
   font-size: 50px;
+}
+
+.fw-icon i {
+  margin: 10px;
 }
